@@ -5,7 +5,7 @@
 ## 🔹 Proyectos Destacados
 
 
-### [TesloShop](https://github.com/KateKabisova/tesloShop)  
+### [TesloShop](https://github.com/KateKabisova/teslo-shop)  
 Aplicación en **Angular 19 + TypeScript**, con soporte para carruseles de imágenes y diseño moderno.  
 
 🛠 **Tecnologías principales:**  
