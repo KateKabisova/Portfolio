@@ -2,7 +2,17 @@
 
 ¡Hola! Soy Katerina Kabisova, desarrolladora frontend. Aquí encontrarás algunos de mis proyectos más destacados.  
 
-## 🔹 Proyectos Destacados  
+## 🔹 Proyectos Destacados
+
+
+### [TesloShop](https://github.com/KateKabisova/tesloShop)  
+E-commerce construido con **Angular 19 + TypeScript**, con soporte para carruseles de imágenes y diseño moderno.  
+
+🛠 **Tecnologías principales:**  
+- **Frontend:** Angular 19, TypeScript, SCSS  
+- **UI:** Tailwind CSS, DaisyUI  
+- **Gestión de Datos:** RxJS, Angular Router  
+- **Otros:** Swiper (carruseles de imágenes) 
 
 ### [Heroes App](https://github.com/KateKabisova/heroesApp)  
 Aplicación en **Angular 17 + TypeScript** para la búsqueda de héroes de cómics.  
