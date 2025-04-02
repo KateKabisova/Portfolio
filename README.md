@@ -1,19 +1,19 @@
-# Mi Portfolio de Proyectos
+# 🚀 Mi Portfolio de Proyectos  
 
-Bienvenido/a a mi portfolio de proyectos de Frontend. Aquí encontrarás algunos de mis trabajos más destacados.
+¡Hola! Soy Katerina Kabisova, desarrolladora frontend. Aquí encontrarás algunos de mis proyectos más destacados.  
 
-## 🔹 Proyectos Destacados
+## 🔹 Proyectos Destacados  
 
 ### [Heroes App](https://github.com/KateKabisova/heroesApp)  
-Una aplicación en Angular 17 y TypeScript para buscar héroes de cómics.
+Aplicación en **Angular 17 + TypeScript** para la búsqueda de héroes de cómics.  
 
-### [Nest Tesla Shop](https://github.com/tu-usuario/nest-teslo-shop)  
-API creada con NestJS para gestionar productos de una tienda en línea.
+🛠 **Tecnologías principales:**  
+- **Frontend:** Angular 17, TypeScript, SCSS  
+- **UI:** Angular Material, Bootstrap 5  
+- **Gestión de Datos:** RxJS, Angular Router  
+- **Backend Simulado:** Json-Server  
 
-### [Maps App](https://github.com/tu-usuario/maps-app)  
-Aplicación de mapas interactivos usando TypeScript.
-
-## 📩 Contacto
--  LinkedIn : https://www.linkedin.com/in/katerina-kabisova/
--  Correo: katekabisova@gmail.com
--  Teléfono: 603772303
+## 📩 Contacto  
+📌 **LinkedIn:** [Katerina Kabisova](https://www.linkedin.com/in/katerina-kabisova/)  
+📧 **Correo:** katekabisova@gmail.com  
+📱 **Teléfono:** 603772303 
