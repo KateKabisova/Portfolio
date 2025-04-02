@@ -4,7 +4,7 @@ Bienvenido/a a mi portfolio de proyectos de Frontend. Aquí encontrarás algunos
 
 ## 🔹 Proyectos Destacados
 
-### [Heroes App](https://github.com/tu-usuario/heroesApp)  
+### [Heroes App](https://github.com/KateKabisova/heroesApp)  
 Una aplicación en Angular 17 y TypeScript para buscar héroes de cómics.
 
 ### [Nest Tesla Shop](https://github.com/tu-usuario/nest-teslo-shop)  
