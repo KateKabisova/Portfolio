@@ -31,7 +31,15 @@ Aplicación en **Angular 16 + TypeScript** para buscar y visualizar GIFs animado
 🛠 **Tecnologías principales:**  
 - **Frontend:** Angular 16, TypeScript, SCSS  
 - **UI:** Bootstrap 5  
-- **Gestión de Datos:** RxJS, Angular Router  
+- **Gestión de Datos:** RxJS, Angular Router
+
+  ### [CountryApp](https://github.com/KateKabisova/countryApp)  
+Aplicación en **Angular 16 + TypeScript** para visualizar información sobre países, con filtros y búsquedas.  
+
+🛠 **Tecnologías principales:**  
+- **Frontend:** Angular 16, TypeScript, SCSS  
+- **UI:** No especificado, pero se asume un diseño limpio y minimalista  
+- **Gestión de Datos:** RxJS, Angular Router 
 
 
 ## 📩 Contacto  
