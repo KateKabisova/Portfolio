@@ -1,6 +1,6 @@
 # 🚀 Mi Portfolio de Proyectos  
 
-¡Hola! Soy Katerina Kabisova, desarrolladora frontend. Aquí encontrarás algunos de mis proyectos más destacados.  
+¡Hola! Soy Katerina Kabisova, desarrolladora frontend. Aquí encontrarás algunos de mis proyectos.  
 
 ## 🔹 Proyectos Destacados
 
