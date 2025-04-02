@@ -6,7 +6,7 @@
 
 
 ### [TesloShop](https://github.com/KateKabisova/tesloShop)  
-E-commerce construido con **Angular 19 + TypeScript**, con soporte para carruseles de imágenes y diseño moderno.  
+Aplicación en **Angular 19 + TypeScript**, con soporte para carruseles de imágenes y diseño moderno.  
 
 🛠 **Tecnologías principales:**  
 - **Frontend:** Angular 19, TypeScript, SCSS  
