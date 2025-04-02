@@ -15,7 +15,7 @@ Aplicación en **Angular 17 + TypeScript** para la búsqueda de héroes de cómi
 
 
 
-### [Gifs App](https://github.com/KateKabisova/gifsApp)  
+### [Gifs App](https://github.com/KateKabisova/gifs-app)  
 Aplicación en **Angular 16 + TypeScript** para buscar y visualizar GIFs animados.  
 
 🛠 **Tecnologías principales:**  
