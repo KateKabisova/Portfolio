@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Katerina Kabisova, desarrolladora frontend. Aquí encontrarás algunos de mis proyectos.  
 
-## 🔹 Proyectos Destacados
+## 🔹 Proyectos con Angular
 
 
 ### [TesloShop](https://github.com/KateKabisova/teslo-shop)  
@@ -39,7 +39,24 @@ Aplicación en **Angular 16 + TypeScript** para visualizar información sobre pa
 🛠 **Tecnologías principales:**  
 - **Frontend:** Angular 16, TypeScript, SCSS  
 - **UI:** No especificado, pero se asume un diseño limpio y minimalista  
-- **Gestión de Datos:** RxJS, Angular Router 
+- **Gestión de Datos:** RxJS, Angular Router
+
+  ## 🔹 Proyectos con React
+
+  🎸 GuitarLA
+Aplicación en React 19 + TypeScript para la visualización de productos musicales, creada con Vite.
+
+🛠 ** Tecnologías principales:**
+
+- **Frontend:** React 19, TypeScript
+
+- **Build Tool:** Vite
+
+- **UI:** (Puedes especificar Tailwind, Bootstrap, etc., si corresponde)
+
+- **Gestión de Datos:** Hooks personalizados
+
+- **Backend Simulado:** Json-Server 
 
 
 ## 📩 Contacto  
