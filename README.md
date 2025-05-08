@@ -41,7 +41,9 @@ Aplicación en **Angular 16 + TypeScript** para visualizar información sobre pa
 - **UI:** No especificado, pero se asume un diseño limpio y minimalista  
 - **Gestión de Datos:** RxJS, Angular Router
 
-  ## 🔹 Proyectos con React
+## 🔹 Proyectos con React
+
+### [GuitarLA]([https://github.com/KateKabisova/gifs-app](https://github.com/KateKabisova/GuitarLA)  
 
   🎸 GuitarLA
 Aplicación en React 19 + TypeScript para la visualización de productos musicales, creada con Vite.
