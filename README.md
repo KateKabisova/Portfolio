@@ -65,13 +65,13 @@ Aplicación web para registrar y visualizar la ingesta calórica diaria.
 
 🛠  ** Tecnologías principales: **
 
-- ** Frontend: ** React 19, TypeScript
+- **Frontend:** React 19, TypeScript
 
 - **Build Tool:** Vite
 
--**UI:** Tailwind CSS, Heroicons
+- **UI:** Tailwind CSS, Heroicons
 
--**Utilidades:** UUID
+- **Utilidades:** UUID
 
 - **Estilo:** PostCSS, Autoprefixer
 
