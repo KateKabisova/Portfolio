@@ -57,7 +57,24 @@ Aplicación en React 19 + TypeScript para la visualización de productos musical
 
 - **Gestión de Datos:** Hooks personalizados
 
-- **Backend Simulado:** Json-Server 
+- **Backend Simulado:** Json-Server
+
+### [ Calorie Tracker]([https://github.com/KateKabisova/GuitarLA](https://github.com/KateKabisova/calorie-tracker)   
+Aplicación web para registrar y visualizar la ingesta calórica diaria.
+
+🛠  ** Tecnologías principales: **
+
+- ** Frontend: ** React 19, TypeScript
+
+- **Build Tool:** Vite
+
+-**UI:** Tailwind CSS, Heroicons
+
+-**Utilidades:** UUID
+
+- **Estilo:** PostCSS, Autoprefixer
+
+- **Linting:**  ESLint, TypeScript ESLint
 
 
 ## 📩 Contacto  
