@@ -77,7 +77,7 @@ Aplicación web para registrar y visualizar la ingesta calórica diaria.
 
 - **Linting:**  ESLint, TypeScript ESLint
 
-  ### [ControlGastos]((https://github.com/KateKabisova/control-gastos-contextapi))
+  ### [ControlGastos](https://github.com/KateKabisova/control-gastos-contextapi)
 
 Aplicación web para registrar, visualizar y gestionar gastos personales mensuales. Utiliza Context API y useReducer para un manejo global y eficiente del estado, con interfaz limpia e intuitiva.
 
