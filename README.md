@@ -77,6 +77,22 @@ Aplicación web para registrar y visualizar la ingesta calórica diaria.
 
 - **Linting:**  ESLint, TypeScript ESLint
 
+  ### [ControlGastos]((https://github.com/KateKabisova/control-gastos-contextapi))
+
+Aplicación web para registrar, visualizar y gestionar gastos personales mensuales. Utiliza Context API y useReducer para un manejo global y eficiente del estado, con interfaz limpia e intuitiva.
+
+🛠  ** Tecnologías principales: **
+
+- **Frontend:** React 19, TypeScript
+
+- **Build Tool:** Vite
+
+- **UI:** Tailwind CSS, Heroicons, PostCSS + Autoprefixer, Headless UI
+
+- **Utilidades:** UUID, useReducer, Context API, PropTypes
+
+- **Componentes UI y Funcionalidades:**  react-calendar & react-date-picker, react-circular-progressbar,react-swipeable-list
+
 
 ## 📩 Contacto  
 📌 **LinkedIn:** [Katerina Kabisova](https://www.linkedin.com/in/katerina-kabisova/)  
